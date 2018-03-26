@@ -25,8 +25,7 @@
 		- 本题目要求是把可视化图形编程界面与 Unity API 对应起来，当你在 Inspector 面板上每一个内容，应该知道对应 API。
 		- 例如：table 的对象是 GameObject，第一个选择框是 activeSelf 属性。
 	- 用 UML 图描述 三者的关系（请使用 UMLet 14.1.1 stand-alone版本出图）
-![](https://img-blog.csdn.net/20180326155041374?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2phbmtpbmdtZWFuaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-
+![这里写图片描述](https://img-blog.csdn.net/20180326171217820?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2phbmtpbmdtZWFuaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 **答：**
 table 对象(实体)的属性
 
@@ -42,7 +41,8 @@ table 对象(实体)的属性
 			Transform
 			Mesh Renderer
 			Box Collider
-![](https://img-blog.csdn.net/20180326165256398?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2phbmtpbmdtZWFuaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+			
+![](https://img-blog.csdn.net/20180326165256398watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2phbmtpbmdtZWFuaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 - 整理相关学习资料，编写简单代码验证以下技术的实现：
 	- 查找对象
 	- 添加子对象
