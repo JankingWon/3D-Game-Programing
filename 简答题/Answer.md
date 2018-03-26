@@ -43,7 +43,7 @@ table 对象(实体)的属性
 			Mesh Renderer
 			Box Collider
 			
-![](https://img-blog.csdn.net/20180326165256398watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2phbmtpbmdtZWFuaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![UML图](https://img-blog.csdn.net/20180327003224376?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2phbmtpbmdtZWFuaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 - 整理相关学习资料，编写简单代码验证以下技术的实现：
 	- 查找对象
 	- 添加子对象
